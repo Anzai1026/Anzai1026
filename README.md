@@ -1,4 +1,4 @@
-### Let's get it🤙
+### Hi!👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anzai1026&theme=moltack&show_icons=true)
 ![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=Anzai1026&theme=oldie)
