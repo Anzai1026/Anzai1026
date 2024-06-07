@@ -1,7 +1,6 @@
 ### Hi👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anzai1026&theme=moltack&show_icons=true)
-<a href="https://github.com/Anzai1026">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anzai1026&theme=moltack&show_icons=true)<a href="https://github.com/Anzai1026">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anzai1026&layout=compact&theme=dark" />
 </a>
 ![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=Anzai1026&theme=oldie)
