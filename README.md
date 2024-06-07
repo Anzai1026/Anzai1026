@@ -3,11 +3,16 @@
 <a href="https://github.com/Anzai1026">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Anzai1026&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/kiichi7580">
+<a href="https://github.com/Anzai1026">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiichi7580&layout=compact&theme=dark" />
 </a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiichi7580&theme=vue)
+
+![github-user-contribution](https://github.com/kiichi7580/kiichi7580/assets/130330354/8cef0383-2474-4c1e-99ca-e09824a0bd2a)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kiichi7580)](https://github.com/kiichi7580/github-profile-trophy)
 
 
 
