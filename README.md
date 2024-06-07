@@ -11,4 +11,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anzai1026&theme=★★★&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Languages and Tools:</h3>
-![](https://skillicons.dev/icons?i=html,css,flutter,dart,python3)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,django,sqlite,flutter,dart,firebase,git)](https://skillicons.dev)
