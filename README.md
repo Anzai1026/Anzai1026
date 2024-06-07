@@ -9,8 +9,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anzai1026&theme=vue)
 
-![github-user-contribution](https://github.com/Anzai1026/Anzai1026/assets/130330354/8cef0383-2474-4c1e-99ca-e09824a0bd2a)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anzai1026)](https://github.com/Anzai1026/github-profile-trophy)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
