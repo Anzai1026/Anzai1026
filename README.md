@@ -8,11 +8,11 @@
 </a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiichi7580&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anzai1026&theme=vue)
 
-![github-user-contribution](https://github.com/kiichi7580/kiichi7580/assets/130330354/8cef0383-2474-4c1e-99ca-e09824a0bd2a)
+![github-user-contribution](https://github.com/kiichi7580/Anzai1026/assets/130330354/8cef0383-2474-4c1e-99ca-e09824a0bd2a)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kiichi7580)](https://github.com/kiichi7580/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anzai1026)](https://github.com/Anzai1026/github-profile-trophy)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
