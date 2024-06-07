@@ -1,9 +1,9 @@
 ### Hi👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anzai1026&theme=moltack&show_icons=true)<a href="https://github.com/Anzai1026">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anzai1026&theme=moltack&show_icons=true)
+![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=Anzai1026&theme=oldie)<a href="https://github.com/Anzai1026">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anzai1026&layout=compact&theme=dark" />
 </a>
-![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=Anzai1026&theme=oldie)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
 
